@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/shoppingUmbreon/static/css/main.1188d877.chunk.css",
+    "main.js": "/shoppingUmbreon/static/js/main.a7c8c450.chunk.js",
+    "main.js.map": "/shoppingUmbreon/static/js/main.a7c8c450.chunk.js.map",
+    "runtime-main.js": "/shoppingUmbreon/static/js/runtime-main.c282c349.js",
+    "runtime-main.js.map": "/shoppingUmbreon/static/js/runtime-main.c282c349.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/shoppingUmbreon/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.cfeb79c8.chunk.js": "/shoppingUmbreon/static/js/2.cfeb79c8.chunk.js",
+    "static/js/2.cfeb79c8.chunk.js.map": "/shoppingUmbreon/static/js/2.cfeb79c8.chunk.js.map",
+    "static/js/3.1efc2f29.chunk.js": "/shoppingUmbreon/static/js/3.1efc2f29.chunk.js",
+    "static/js/3.1efc2f29.chunk.js.map": "/shoppingUmbreon/static/js/3.1efc2f29.chunk.js.map",
+    "index.html": "/shoppingUmbreon/index.html",
+    "static/css/2.ed1298f3.chunk.css.map": "/shoppingUmbreon/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.1188d877.chunk.css.map": "/shoppingUmbreon/static/css/main.1188d877.chunk.css.map",
+    "static/js/2.cfeb79c8.chunk.js.LICENSE.txt": "/shoppingUmbreon/static/js/2.cfeb79c8.chunk.js.LICENSE.txt",
+    "static/media/512x512.3373974c.png": "/shoppingUmbreon/static/media/512x512.3373974c.png",
+    "static/media/logo.6ce24c58.svg": "/shoppingUmbreon/static/media/logo.6ce24c58.svg",
+    "static/media/sale.39804a77.png": "/shoppingUmbreon/static/media/sale.39804a77.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c282c349.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.cfeb79c8.chunk.js",
+    "static/css/main.1188d877.chunk.css",
+    "static/js/main.a7c8c450.chunk.js"
+  ]
+}
