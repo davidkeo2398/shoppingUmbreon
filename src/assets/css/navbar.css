@@ -1,0 +1,32 @@
+.fa-facebook-square, .fa-twitter-square, .fa-instagram-square, .fa-google-plus-square {
+    position: relative;
+    top: 10px;
+    margin-right: 20px;
+    transition: witdh 1s, height 1s;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.fa-facebook-square:hover, .fa-twitter-square:hover, .fa-instagram-square:hover, .fa-google-plus-square:hover {
+    transform: scale(1.5, 1.5);
+}
+.fa-shopping-cart {
+    position: relative;
+    top: 15px;
+}
+.search {
+    border-color: blue;
+    width: 450px;
+    height: 30px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+} 
+.search:focus{
+    outline-color: red;
+}
+
+@media screen and (max-width: 500px) {
+    .fa-facebook-square, .fa-twitter-square, .fa-instagram-square, .fa-google-plus-square {
+        top: -10px;
+    }
+}
