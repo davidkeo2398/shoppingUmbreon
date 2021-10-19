@@ -10,7 +10,6 @@ import { MyContext } from './components/home/homeComponent';
 
 ReactDOM.render(
   <HashRouter>
-
     <App />
   </HashRouter>
   ,

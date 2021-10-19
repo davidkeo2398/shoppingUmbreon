@@ -172,7 +172,7 @@ export const NavBar = (props) => {
                                     <Grid item xs>
                                         <StyledBadge badgeContent={badge}>
                                             {/* <i className="fas fa-shopping-cart"></i> */}
-                                            <ShoppingCartIcon style={{ position: 'relative', top: '12px', left: '6px' }} />
+                                            <ShoppingCartIcon onClick={(e) => handleCart(e)} style={{ position: 'relative', top: '12px', left: '6px' }} />
                                         </StyledBadge>
                                     </Grid>
                                 </Grid>
